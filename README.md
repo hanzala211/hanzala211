@@ -1,2 +1,2 @@
 #### Sup! I'm Hanzala
-_I write something for machines and they understand!_
+_I tell computers what to do, and sometimes they even listen on the first try._
